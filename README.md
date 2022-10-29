@@ -1,4 +1,3 @@
 # frtp
 This is my final project 
-#Azure link https://lively-forest-0fbacf410.1.azurestaticapps.net/
- 
+#Azure link https://zealous-water-0505e7b10.2.azurestaticapps.net
